@@ -4,5 +4,7 @@
     selecionar um elemento do dom
     atualizar o valor de uma linha*/
     
-document.getElementById('nome').value = 'Oi'
+document.getElementById('nome').value = 'AGORA'
+
+
 
